@@ -9,7 +9,7 @@ I enjoy exploring new technologies and making little gadgets 🐱 for myself. I 
 - **Infrastructure:** Fedora (Daily Use), Proxmox VE (Homelab Datacenter), Debian, Podman, Home Assistant
 - **Design & Engineering:** Autodesk Fusion, SolidWorks (3D Printing)
 
-## ✨ Hobbies and Interests
+## ✨ Hobbies & Interests
 - **Photography & Video Shooting**
 - **Cooking**
 - **Blog Writing**
